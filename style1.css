@@ -1,0 +1,20 @@
+*{
+    margin:0px;
+    padding:0;
+    font-family:sans-serif;
+
+}
+body{
+    align-items:center;
+
+}
+.content1{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:larger;
+    flex-direction:column;
+}
+a{
+    margin:300px;
+}
